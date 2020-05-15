@@ -1,5 +1,21 @@
 # Bengali_ai_handwritten_grapheme_Classification
 Bengali is the 5th most spoken language in the world with hundreds of million of speakers. It’s the official language of Bangladesh and the second most spoken language in India. Considering its reach, there’s significant business and educational interest in developing AI that can optically recognize images of the language handwritten. This model hopes to improve on approaches to Bengali recognition. Bengali’s alphabet is made up of 11 vowels, 7 consonants, and 168 grapheme roots. This results in ~13,000 different character variations; compared English’s 250 characters variations.
+# **Instruction To Run Model**
+## Two Methods to run the Model
+### **1.  Complex Method**
+
+- Download kaggle.json file
+- Open Colab_Model.ipynb and Start Runing Cells 
+- Upload downloaded Json file In Colab
+![kuchnhi](https://user-images.githubusercontent.com/47919271/82045498-ce7cc680-96cc-11ea-81cd-0c043754f0b0.PNG)
+
+
+### **2. Simple Method** 
+
+- Download Trained_Model folder's files 
+- Download Using_preTrained_Model.ipynb file
+- Download Data Set From <a href="https://www.kaggle.com/c/bengaliai-cv19/data" target="_blank">DataSet</a>
+
 # **Keras Sequential Model**
 ![index](https://user-images.githubusercontent.com/47919271/82033946-1b57a180-96bb-11ea-9abe-890e2c05fc65.png)
 # **Result**
