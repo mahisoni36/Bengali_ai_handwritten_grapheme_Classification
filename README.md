@@ -3,7 +3,7 @@ Bengali is the 5th most spoken language in the world with hundreds of million of
 # **Keras Sequential Model**
 ![index](https://user-images.githubusercontent.com/47919271/82033946-1b57a180-96bb-11ea-9abe-890e2c05fc65.png)
 # **Result**
-## **Graphs of All Three Output Component's Loss **
+## **Graphs of All Three Output Component's Loss**
 ![grapheme](https://user-images.githubusercontent.com/47919271/82035795-a9cd2280-96bd-11ea-9ebe-61de0a385649.PNG)
 ![vowels](https://user-images.githubusercontent.com/47919271/82035802-ab96e600-96bd-11ea-8e7e-14cc287d22b7.PNG)
 ![conso](https://user-images.githubusercontent.com/47919271/82035803-acc81300-96bd-11ea-8e3e-51dc9100bd0b.PNG)
