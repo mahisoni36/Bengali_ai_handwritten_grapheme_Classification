@@ -3,8 +3,10 @@ Bengali is the 5th most spoken language in the world with hundreds of million of
 # **Keras Sequential Model**
 ![index](https://user-images.githubusercontent.com/47919271/82033946-1b57a180-96bb-11ea-9abe-890e2c05fc65.png)
 # **Result**
-## **Training Loss v/s Validation Loss**
-![main_loss](https://user-images.githubusercontent.com/47919271/82035023-9c636880-96bc-11ea-90f5-3fb0e8505883.PNG)
+## **Graphs of All Three Output Component's Loss **
+![grapheme](https://user-images.githubusercontent.com/47919271/82035795-a9cd2280-96bd-11ea-9ebe-61de0a385649.PNG)
+![vowels](https://user-images.githubusercontent.com/47919271/82035802-ab96e600-96bd-11ea-8e7e-14cc287d22b7.PNG)
+![conso](https://user-images.githubusercontent.com/47919271/82035803-acc81300-96bd-11ea-8e3e-51dc9100bd0b.PNG)
 ## **Graphs of All Three Output Component's Accuracy**
 ![conso_acc](https://user-images.githubusercontent.com/47919271/82035242-e5b3b800-96bc-11ea-8903-319297bbf4b7.PNG)
 ![grapheme_acc](https://user-images.githubusercontent.com/47919271/82035252-e77d7b80-96bc-11ea-804d-f2cf35e1e9f2.PNG)
