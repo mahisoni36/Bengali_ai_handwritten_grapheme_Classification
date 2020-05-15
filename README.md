@@ -9,3 +9,6 @@ Bengali is the 5th most spoken language in the world with hundreds of million of
 ![conso_acc](https://user-images.githubusercontent.com/47919271/82035242-e5b3b800-96bc-11ea-8903-319297bbf4b7.PNG)
 ![grapheme_acc](https://user-images.githubusercontent.com/47919271/82035252-e77d7b80-96bc-11ea-804d-f2cf35e1e9f2.PNG)
 ![vowels_acc](https://user-images.githubusercontent.com/47919271/82035262-e8aea880-96bc-11ea-97fe-537eea330356.PNG)
+### **Kaggle Submission**
+![kaggle_submission](https://user-images.githubusercontent.com/47919271/82035501-35927f00-96bd-11ea-90f7-afd3cefbc0f3.PNG)
+
