@@ -8,10 +8,9 @@ Google colaboratory OR any other notebook which supports Python
 ## Two Methods
 ### **1.  First Method**
 
-- Open your kaggle account,scroll to API section and Click Expire API Token to remove previous tokens
-- Click on create New API Token - It will download kaggle.json file on your machine.
-- Open Colab_Model.ipynb and Start Runing Cells 
-- Already downloaded kaggle.json file needs to be ulpoaded in Colab
+- Download kaggle.json file (already uploaded on Git)
+- Open File 'Colab_Model.ipynb' and Start Runing Cells 
+- Downloaded kaggle.json file needs to be ulpoaded in Colab
 ![kuchnhi](https://user-images.githubusercontent.com/47919271/82045498-ce7cc680-96cc-11ea-81cd-0c043754f0b0.PNG)
 
 
