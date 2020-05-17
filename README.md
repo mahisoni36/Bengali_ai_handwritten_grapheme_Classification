@@ -8,16 +8,16 @@ Google colaboratory OR any other notebook which supports Python
 ## Two Methods
 ### **1.  First Method**
 
-- Download kaggle.json file (already uploaded on Git)
-- Open File 'Colab_Model.ipynb' and Start Runing Cells 
-- Downloaded kaggle.json file needs to be ulpoaded in Colab
+- Download **kaggle.json** file (already uploaded on Git)
+- Open File **Colab_Model.ipynb** and Start Runing Cells 
+- Downloaded **kaggle.json** file needs to be ulpoaded in Colab
 ![kuchnhi](https://user-images.githubusercontent.com/47919271/82045498-ce7cc680-96cc-11ea-81cd-0c043754f0b0.PNG)
 
 
 ### **2. Second Method** 
 
-- Download files of folder 'Trained_Model' 
-- Download File 'Using_preTrained_Model.ipynb'
+- Download files of folder **Trained_Model** 
+- Download File **Using_preTrained_Model.ipynb**
 - Download Data Set From <a href="https://www.kaggle.com/c/bengaliai-cv19/data" target="_blank">DataSet</a>
 
 # **Keras Sequential Model**
